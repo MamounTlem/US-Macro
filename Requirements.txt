@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-seaborn
-matplotlib
-fredapi
-pillow
