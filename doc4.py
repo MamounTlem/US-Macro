@@ -41,7 +41,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Add at the top of your app
-logo = Image.open(r"C:\Users\admin\downloads\logo.png")
+logo = Image.open("logo.png")
 st.columns([1, 3, 1])[1].image(logo, use_container_width=True)
 
 st.markdown(
